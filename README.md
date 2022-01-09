@@ -14,7 +14,6 @@
 </div>
 
 ## 项目介绍
-
 | 软件                                                         | 功能                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Win11自动更新](https://mp.weixin.qq.com/s/Qfa__YqA5msHBWZLZBlBaA) | 官方软件，帮你从Win10更新到Win11，不影响已有软件的使用       |
@@ -22,8 +21,17 @@
 | [Chrome灵魂插件](https://mp.weixin.qq.com/s/E4upfgugVQmY7S6Pl_9wvQ) | 里面的很多插件都是工具插件，看完保证你工作效率、心情提高1倍。 |
 | [无影云电脑](https://mp.weixin.qq.com/s/ZaG3TJFa-KSZEIHGk9mM8A) | 来，0元 体验一把阿里云“无影”云电脑！                         |
 | [给女朋友做个表白网站](https://mp.weixin.qq.com/s/SEZUfq_MhO41IE5xMZQjRQ) | 亲测有效                                                     |
-
+| [聊天机器人](https://mp.weixin.qq.com/s/ubJ1OhOFVKfFVT8sBNZ0pg) | 一个15分钟的视频，教你用Python创建自己的微信聊天机器人！文中赠送全部源代码 |
+| [文件搜索](https://mp.weixin.qq.com/s/09BLTfT78ReCLDX5PDdB1A) | 搜索神器 Everything，你把它的潜力用到极致了吗？ |
+| [Python抢茅台脚本](https://www.yuque.com/books/share/bdf02f8a-e87b-4d39-8a36-3982de7eeaec/imy83o) | 抢购是否成功通常在程序开始的一分钟内可见分晓！ |
+| [春节抢票软件](https://www.bilibili.com/video/BV13Z4y137BA) | 黄牛到底是用什么软件抢到火车票的？免费送给你！ |
+| [大屏数据可视化](https://www.bilibili.com/video/BV1Kz4y1r76w) | 内幕！报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板） |
+| [免费的录屏软件](https://mp.weixin.qq.com/s/gUAn34h-LyDQR8v2-NhMjg) | 你想要的录屏功能，它都有，而且免费！Windows、Mac、Linux都能用。 |
 
 ## 今年汇总 ✨
+
+> 黑科技导航 致力于推荐办公软件 💎
+> 项目开源仓库：https://github.com/heyWFeng/blacktech-nav
+> 跪求一个 star ⭐️
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=heyWFeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
