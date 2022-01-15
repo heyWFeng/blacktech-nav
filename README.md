@@ -6,6 +6,7 @@
 
 
 
+
 <div align="center">
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
     <a href="https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
@@ -13,20 +14,37 @@
     <a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
 </div>
 
-## 项目介绍
+你好呀，我是[程序员晚枫](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=2203509817615450117#wechat_redirect)，下面是一些我经常给粉丝们分享的办公黑科技软件，极大提高办公效率和满意度！
+
+
+## 软件类
+ 
+
 | 软件                                                         | 功能                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Win11自动更新](https://mp.weixin.qq.com/s/Qfa__YqA5msHBWZLZBlBaA) | 官方软件，帮你从Win10更新到Win11，不影响已有软件的使用       |
 | [PDF编辑器](https://mp.weixin.qq.com/s/pcNgttKxJ8J4II8X9v0BXw) | 你能想到的PDF操作，它都能做，而且还免费！                    |
-| [Chrome灵魂插件](https://mp.weixin.qq.com/s/E4upfgugVQmY7S6Pl_9wvQ) | 里面的很多插件都是工具插件，看完保证你工作效率、心情提高1倍。 |
+| [Chrome灵魂插件](https://mp.weixin.qq.com/s/E4upfgugVQmY7S6Pl_9wvQ) | 里面的很多插件都是工具插件，用上让你的你工作效率、心情提高1倍。 |
 | [无影云电脑](https://mp.weixin.qq.com/s/ZaG3TJFa-KSZEIHGk9mM8A) | 来，0元 体验一把阿里云“无影”云电脑！                         |
+| [文件搜索](https://mp.weixin.qq.com/s/09BLTfT78ReCLDX5PDdB1A) | 搜索神器 Everything，你把它的潜力用到极致了吗？ |
+| [春节抢票软件](https://www.bilibili.com/video/BV13Z4y137BA) | 黄牛到底是用什么软件抢到火车票的？免费送给你！ |
+| [快速搭建个人网站](https://mp.weixin.qq.com/s/fl3d9meuJuha0211bZvr3A) | 腾讯给你一键自动化生成个人网站 |
+| [免费的录屏软件](https://mp.weixin.qq.com/s/gUAn34h-LyDQR8v2-NhMjg) | 你想要的录屏功能，它都有，而且免费！Windows、Mac、Linux都能用。 |
+| [远程办公](https://mp.weixin.qq.com/s/tFCmM6yz8KReQhAejAkpNQ) | 我愿意称之为国产软件之光！ |
+| [截图神器](https://mp.weixin.qq.com/s/WQePeVg0v3CEov2gMTi2yQ) | 截图神器：Snipaste，它功能强大，你用过一次就忘不了。 |
+| [微信多开](https://mp.weixin.qq.com/s/8Erlvz1x09DlKoIFg60AAg) | 要想实现微信多开，送你3个方法！电脑、安卓、苹果都包含！ |
+
+## 编程类
+
+| 项目                                                         | 作用                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [发布自己的Python项目](https://mp.weixin.qq.com/s/zzD4pxNMFd0ZuWqXlVFdAg) | 也许你的代码，可以改变世界~ |
+| [大屏数据可视化](https://www.bilibili.com/video/BV1Kz4y1r76w) | 内幕！报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板） |
 | [给女朋友做个表白网站](https://mp.weixin.qq.com/s/SEZUfq_MhO41IE5xMZQjRQ) | 亲测有效                                                     |
 | [聊天机器人](https://mp.weixin.qq.com/s/ubJ1OhOFVKfFVT8sBNZ0pg) | 一个15分钟的视频，教你用Python创建自己的微信聊天机器人！文中赠送全部源代码 |
-| [文件搜索](https://mp.weixin.qq.com/s/09BLTfT78ReCLDX5PDdB1A) | 搜索神器 Everything，你把它的潜力用到极致了吗？ |
 | [Python抢茅台脚本](https://www.yuque.com/books/share/bdf02f8a-e87b-4d39-8a36-3982de7eeaec/imy83o) | 抢购是否成功通常在程序开始的一分钟内可见分晓！ |
-| [春节抢票软件](https://www.bilibili.com/video/BV13Z4y137BA) | 黄牛到底是用什么软件抢到火车票的？免费送给你！ |
-| [大屏数据可视化](https://www.bilibili.com/video/BV1Kz4y1r76w) | 内幕！报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板） |
-| [免费的录屏软件](https://mp.weixin.qq.com/s/gUAn34h-LyDQR8v2-NhMjg) | 你想要的录屏功能，它都有，而且免费！Windows、Mac、Linux都能用。 |
+
+
 
 ## 今年汇总 ✨
 
