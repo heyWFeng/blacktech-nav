@@ -1,3 +1,10 @@
+---
+title: 黑科技导航 - 内容列表
+date: 2022-01-01 21:25:52
+tags: [办公黑科技,高效办公]
+---
+
+
 <div align="center">
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
     <a href="https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
@@ -5,12 +12,12 @@
     <a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
 </div>
 
-你好呀，我是[程序员晚枫](https://weibo.com/u/7726957925)， 💬 我的微信，点击添加👉[CoderWanFeng](http://python4office.cn/wechat-qrcode/)
+你好呀，我是[程序员晚枫](https://mp.weixin.qq.com/s/CmuopIUWCWP-YZRaBnKNNg)， 💬 我的微信，点击添加👉[CoderWanFeng](http://python4office.cn/wechat-qrcode/)
 下面是一些我经常给粉丝们分享的⚡[办公黑科技软件，极大提高办公效率和满意度](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjU3ODYyNA==&action=getalbum&album_id=2186546268016017410&scene=173&from_msgid=2247485042&from_itemidx=1&count=3&nolastread=1#wechat_redirect)！
 
 > 点击以下蓝色字体，可以直达资源
 >高效办公软件 · 分享交流群：[点我加入](http://www.python4office.cn/wechat-group/)
-> 🔥[【腾讯文档】Python资源仓库-粉丝共建 https://docs.qq.com/sheet/DYXd0VlJaV2xTUGpo](https://docs.qq.com/sheet/DYXd0VlJaV2xTUGpo)
+> 🔥[84%的人，终其一生都没有找到自己擅长的事。](https://mp.weixin.qq.com/s/O75jkwzme78h9Y7EHJq_bA)
 
 ## OFFICE类
  
@@ -26,6 +33,7 @@
 | 🖊[杀毒软件](https://mp.weixin.qq.com/s/Wzgky6M93FiqiIFCcXe0wQ) | 秒杀360 ： 无弹窗、不变卡，是我的基本原则。 |
 
 
+<!-- more -->
 
 ## 软件类
  
@@ -81,7 +89,7 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=heyWFeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
-## 你好呀，我是[程序员晚枫](https://weibo.com/u/7726957925)
+## 你好呀，我是[程序员晚枫](https://mp.weixin.qq.com/s/CmuopIUWCWP-YZRaBnKNNg)
 
 - 🐧 编程知识博主
 - 👨‍💻 经历：[关于我，法学院毕业的 Python程序员 ，我也和你一样，一直在努力中](https://www.bilibili.com/video/BV1Nr4y1B76X?spm_id_from=333.999.0.0)
@@ -92,4 +100,4 @@
 - 😺 视频：[B站 『 Python自动化办公社区 』](https://space.bilibili.com/259649365)
 - 💬 微信：[CoderWanFeng](http://python4office.cn/wechat-qrcode/)
 
-![CoderWanFeng](/images/2-free-group.jpg)
+![CoderWanFeng](http://python4office.cn/images/2-free-group.jpg)
