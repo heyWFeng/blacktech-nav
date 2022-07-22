@@ -94,4 +94,4 @@
 - 😺 视频：[B站 『 Python自动化办公社区 』](https://space.bilibili.com/259649365)
 - 💬 微信：[CoderWanFeng](http://python4office.cn/wechat-qrcode/)
 
-![CoderWanFeng](http://python4office.cn/images/2-free-group.jpg)
+![CoderWanFeng](https://www.python-office.com/api/img-cdn/group/2-free-group.jpg)
